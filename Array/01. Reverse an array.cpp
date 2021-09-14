@@ -8,8 +8,9 @@
 #include <iostream>
 using namespace std;
 
-void reverseArray(int arr[], int start, int end)
+void reverseArray(int arr[], int n)
 {
+    int start = 0, end = n-1;
     while (start < end)
     {
         int temp = arr[start];
@@ -20,26 +21,17 @@ void reverseArray(int arr[], int start, int end)
     }
 }
 
-//function to print an array
-void printArray(int arr[], int size)
-{
-    for (int i = 0; i < size; i++)
-        cout << arr[i] << " ";
-    cout << "\n";
-}
-
-//driver function
 int main()
 {
-    int arr[] = {1, 2, 3, 4, 5, 6};
-    int n = sizeof(arr) / sizeof(arr[0]);
-    //print original array
-    cout << "Input array is: " << endl;
-    printArray(arr, n);
-    //function calling
-    reverseArray(arr, 0, n - 1);
+    int n;
+	cin >> n;
+	int arr[n];
+	for(int i = 0; i < n; i++)
+		cin >> arr[i];
+    reverseArray(arr, n);
     cout << "Reversed array is: " << endl;
-    //print the reversed array
-    printArray(arr, n);
+    for (int i = 0; i < n; i++)
+        cout << arr[i] << " ";
+    cout << "\n";
     return 0;
 }
