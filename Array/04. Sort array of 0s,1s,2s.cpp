@@ -1,6 +1,6 @@
 /*
     Sort an array of size n containing only 0s, 1s, and 2s in ascending order without using any sorting algo.
-    Example:    Input: 0, 2, 1, 2, 0
+    Example:    Input: 1, 0, 2, 1, 2, 0
                 Output: 0, 0, 1, 2, 2
     Time Complexity: O(n)
     Space Complexity: O(1)
