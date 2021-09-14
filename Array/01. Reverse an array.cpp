@@ -1,4 +1,9 @@
-/*  C++ program to reverse an array.   Time complexity: O(n)   */
+/*  C++ program to reverse an array.   
+    Example:    Input: 3, 5, 1, 9, 6, 4
+                Output: 4, 6, 9, 1, 5, 3
+    Time complexity: O(n)  
+    Space Complexity: O(1) 
+*/
 
 #include <iostream>
 using namespace std;
