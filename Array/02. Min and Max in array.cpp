@@ -1,5 +1,7 @@
 /*  
-    To find minimum and maximum element in an array using minimum number of comparisons.   
+    To find minimum and maximum element in an array using minimum number of comparisons.  
+	Example:    Input: 4, 9, 10, 12, 3, 7, 11  
+                Output: Min= 3 & Max= 12
     Time Complexity: O(n)  
     Space Complexity: O(1) 
 */
