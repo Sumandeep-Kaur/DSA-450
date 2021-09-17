@@ -7,6 +7,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 
 - [Array](#array)
 - [Matrix](#matrix)
+- [String](#string)
 
 ## Array
 
@@ -69,6 +70,37 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  8   | [Rotate matrix by 90 degrees](https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/)                 |     -    |     -     |
 |  9   | [Kth smallest element in a row-column wise sorted matrix](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1)                 |     -    |     -     |
 |  10   | [Common elements in all rows of a given matrix](https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/)                 |     -    |     -     |
+
+<br/>
+<div align="right">
+    <b><a href="#topics">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## String
+
+|  #  |  Problem                                                                                                                            |   Time   |   Space   |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------  |   ----   |   -----   |
+|  1   | [Reverse a String](https://leetcode.com/problems/reverse-string/)                 |         |          |
+|  2   | [Check whether a String is Palindrome or not](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)                 |         |          |
+|  3   | [Find Duplicate characters in a string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)                 |         |          |
+|  4   | [Why strings are immutable in Java?]()                 |         |          |
+|  5   | [Check whether one string is a rotation of another](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/)                 |         |          |
+|  6   | [Check whether a string is a valid shuffle of two strings or not](https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings)                 |         |          |
+|  7   | [Count and Say problem](https://leetcode.com/problems/count-and-say/)                 |         |          |
+|  8   | [Find the longest Palindrome in a string[Longest palindromic Substring]](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1)                 |         |          |
+|  9   | [Find Longest Recurring Subsequence in String](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1)                 |         |          |
+|  10   | [Print all Subsequences of a string.](https://www.geeksforgeeks.org/print-subsequences-string/)                 |         |          |
+|  11   | [Print all the permutations of the given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)                 |         |          |
+|  12   | [Split the Binary string into two substring with equal 0’s and 1’s](https://www.geeksforgeeks.org/split-the-binary-string-into-substrings-with-equal-number-of-0s-and-1s/)                 |         |          |
+|  13   | [Word Wrap Problem [VERY IMP].](https://practice.geeksforgeeks.org/problems/word-wrap1646/1)                 |         |          |
+|  14   | [EDIT Distance [Very Imp]](https://practice.geeksforgeeks.org/problems/edit-distance3702/1)                 |         |          |
+|  15   | [Find next greater number with same set of digits [V.V. IMP]](https://practice.geeksforgeeks.org/problems/next-permutation5226/1)                 |         |          |
+|  16   | [Balanced Parenthesis problem.[Imp]](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)                 |         |          |
+|  17   | [Word break Problem[ Very Imp]](https://practice.geeksforgeeks.org/problems/word-break1352/1)                 |         |          |
+|  18   | [Rabin Karp Algo](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)                 |         |          |
+|  19   | [KMP Algo](https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1)                 |         |          |
+|  20   | [Convert a Sentence into its equivalent mobile numeric keypad sequence](https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/)                 |         |          |
 
 <br/>
 <div align="right">
