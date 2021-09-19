@@ -8,7 +8,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 - [Array](#array)
 - [Matrix](#matrix)
 - [String](#string)
-- [Linked List](#linked list)
+- [Linked List](#linked-list)
 
 ## Array
 
@@ -109,8 +109,14 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 </div>
 <br/>
 
-## Linked List
+## Linked-List
 |  #  |  Problem                                                                                                                            |   Time   |   Space   |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------  |   ----   |   -----   |
 |  1   | [Reverse the Linked List (Both iterative and recursive)](https://www.geeksforgeeks.org/reverse-a-linked-list/)                 |         |          |
 |  2   | [Reverse a Linked List in group of given Size. [Very Imp]](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)                 |         |          |
+
+<br/>
+<div align="right">
+    <b><a href="#topics">⬆️ Back to Top</a></b>
+</div>
+<br/>
