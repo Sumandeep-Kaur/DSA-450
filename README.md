@@ -8,6 +8,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 - [Array](#array)
 - [Matrix](#matrix)
 - [String](#string)
+- [Linked List](#linked list)
 
 ## Array
 
@@ -58,18 +59,18 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 
 ## Matrix
 
-|  #  |  Problem                                                                                                                            |   Time   |   Space   |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------  |   ----   |   -----   |
-|  1   | [Spiral traversal on a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)                 |     -    |     -     |
-|  2   | [Search an element in a matriix](https://leetcode.com/problems/search-a-2d-matrix/)                 |     -    |     -     |
-|  3   | [Find median in a row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)                 |     -    |     -     |
-|  4   | [Find row with maximum no. of 1's](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)                 |     -    |     -     |
-|  5   | [Print elements in sorted order using row-column wise sorted matrix](https://practice.geeksforgeeks.org/problems/sorted-matrix2333/1)                 |     -    |     -     |
-|  6   | [Maximum size rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)                 |     -    |     -     |
-|  7   | [Find a specific pair in matrix](https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/)                 |     -    |     -     |
-|  8   | [Rotate matrix by 90 degrees](https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/)                 |     -    |     -     |
-|  9   | [Kth smallest element in a row-column wise sorted matrix](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1)                 |     -    |     -     |
-|  10   | [Common elements in all rows of a given matrix](https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/)                 |     -    |     -     |
+|  #  |  Problem                                                                                                                            |  Solution  |   Time   |   Space   |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------  |  ---  |   ----   |   -----   |
+|  1   | [Spiral traversal on a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/01.%20Spiral%20Traversal.cpp)  |     -    |     -     |
+|  2   | [Search an element in a matriix](https://leetcode.com/problems/search-a-2d-matrix/)                 |     -    |     -     |     |
+|  3   | [Find median in a row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)                 |     -    |     -     |    |
+|  4   | [Find row with maximum no. of 1's](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)                 |     -    |     -     |    |
+|  5   | [Print elements in sorted order using row-column wise sorted matrix](https://practice.geeksforgeeks.org/problems/sorted-matrix2333/1)                 |     -    |     -     |    |
+|  6   | [Maximum size rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)                 |     -    |     -     |    |
+|  7   | [Find a specific pair in matrix](https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/)                 |     -    |     -     |    |
+|  8   | [Rotate matrix by 90 degrees](https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/)                 |     -    |     -     |    |
+|  9   | [Kth smallest element in a row-column wise sorted matrix](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1)                 |     -    |     -     |    |
+|  10   | [Common elements in all rows of a given matrix](https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/)                 |     -    |     -     |    |
 
 <br/>
 <div align="right">
@@ -79,31 +80,37 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 
 ## String
 
-|  #  |  Problem                                                                                                                            |   Time   |   Space   |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------  |   ----   |   -----   |
-|  1   | [Reverse a String](https://leetcode.com/problems/reverse-string/)                 |         |          |
-|  2   | [Check whether a String is Palindrome or not](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)                 |         |          |
-|  3   | [Find Duplicate characters in a string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)                 |         |          |
-|  4   | [Why strings are immutable in Java?]()                 |         |          |
-|  5   | [Check whether one string is a rotation of another](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/)                 |         |          |
-|  6   | [Check whether a string is a valid shuffle of two strings or not](https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings)                 |         |          |
-|  7   | [Count and Say problem](https://leetcode.com/problems/count-and-say/)                 |         |          |
-|  8   | [Find the longest Palindrome in a string[Longest palindromic Substring]](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1)                 |         |          |
-|  9   | [Find Longest Recurring Subsequence in String](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1)                 |         |          |
-|  10   | [Print all Subsequences of a string.](https://www.geeksforgeeks.org/print-subsequences-string/)                 |         |          |
-|  11   | [Print all the permutations of the given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)                 |         |          |
-|  12   | [Split the Binary string into two substring with equal 0’s and 1’s](https://www.geeksforgeeks.org/split-the-binary-string-into-substrings-with-equal-number-of-0s-and-1s/)                 |         |          |
-|  13   | [Word Wrap Problem [VERY IMP].](https://practice.geeksforgeeks.org/problems/word-wrap1646/1)                 |         |          |
-|  14   | [EDIT Distance [Very Imp]](https://practice.geeksforgeeks.org/problems/edit-distance3702/1)                 |         |          |
-|  15   | [Find next greater number with same set of digits [V.V. IMP]](https://practice.geeksforgeeks.org/problems/next-permutation5226/1)                 |         |          |
-|  16   | [Balanced Parenthesis problem.[Imp]](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)                 |         |          |
-|  17   | [Word break Problem[ Very Imp]](https://practice.geeksforgeeks.org/problems/word-break1352/1)                 |         |          |
-|  18   | [Rabin Karp Algo](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)                 |         |          |
-|  19   | [KMP Algo](https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1)                 |         |          |
-|  20   | [Convert a Sentence into its equivalent mobile numeric keypad sequence](https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/)                 |         |          |
+|  #  |  Problem                                                                                                                            |  Solution  |   Time   |   Space   |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------  |  ---  |   ----   |   -----   |
+|  1   | [Reverse a String](https://leetcode.com/problems/reverse-string/)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/String/01.%20Reverse%20String.cpp)         |          |
+|  2   | [Check whether a String is Palindrome or not](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)                 |         |          |          |
+|  3   | [Find Duplicate characters in a string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)                 |         |          |          |
+|  4   | [Why strings are immutable in Java?]()                 |         |          |         |
+|  5   | [Check whether one string is a rotation of another](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/)                 |         |          |        |
+|  6   | [Check whether a string is a valid shuffle of two strings or not](https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings)                 |         |          |         |
+|  7   | [Count and Say problem](https://leetcode.com/problems/count-and-say/)                 |         |   |          |
+|  8   | [Find the longest Palindrome in a string[Longest palindromic Substring]](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1)                 |         |          |        |
+|  9   | [Find Longest Recurring Subsequence in String](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1)                 |         |          |         |
+|  10   | [Print all Subsequences of a string.](https://www.geeksforgeeks.org/print-subsequences-string/)                 |         |          |        |
+|  11   | [Print all the permutations of the given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)                 |         |          |         |
+|  12   | [Split the Binary string into two substring with equal 0’s and 1’s](https://www.geeksforgeeks.org/split-the-binary-string-into-substrings-with-equal-number-of-0s-and-1s/)                 |         |          |      |
+|  13   | [Word Wrap Problem [VERY IMP].](https://practice.geeksforgeeks.org/problems/word-wrap1646/1)                 |         |          |       |
+|  14   | [EDIT Distance [Very Imp]](https://practice.geeksforgeeks.org/problems/edit-distance3702/1)                 |         |          |         |
+|  15   | [Find next greater number with same set of digits [V.V. IMP]](https://practice.geeksforgeeks.org/problems/next-permutation5226/1)                 |         |          |           |
+|  16   | [Balanced Parenthesis problem.[Imp]](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)                 |         |          |        |
+|  17   | [Word break Problem[ Very Imp]](https://practice.geeksforgeeks.org/problems/word-break1352/1)                 |         |          |         |
+|  18   | [Rabin Karp Algo](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)                 |         |          |          |
+|  19   | [KMP Algo](https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1)                 |         |          |            |
+|  20   | [Convert a Sentence into its equivalent mobile numeric keypad sequence](https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/)                 |         |          |        |
 
 <br/>
 <div align="right">
     <b><a href="#topics">⬆️ Back to Top</a></b>
 </div>
 <br/>
+
+## Linked List
+|  #  |  Problem                                                                                                                            |   Time   |   Space   |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------  |   ----   |   -----   |
+|  1   | [Reverse the Linked List (Both iterative and recursive)](https://www.geeksforgeeks.org/reverse-a-linked-list/)                 |         |          |
+|  2   | [Reverse a Linked List in group of given Size. [Very Imp]](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)                 |         |          |
