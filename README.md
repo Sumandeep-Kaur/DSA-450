@@ -111,7 +111,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 
 ## Linked-List
 |  #  |  Problem                                                                                                                            |  Solution  |  Time   |   Space   |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------  |   ----   |   -----   |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------  |   ----   |   -----   |  ----  |
 |  1   | [Reverse the Linked List (Both iterative and recursive)](https://www.geeksforgeeks.org/reverse-a-linked-list/)                 | [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Linked%20List/01.%20Reverse%20linked%20list.cpp)        |   O(n)    |  O(1)    |
 |  2   | [Reverse a Linked List in group of given Size. [Very Imp]](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)                 |         |          |         |
 |  3   | [Detect loop in linked list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)                 |         |          |         |
