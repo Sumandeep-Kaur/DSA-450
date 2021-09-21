@@ -82,11 +82,11 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 
 |  #  |  Problem                                                                                                                            |  Solution  |   Time   |   Space   |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------  |  ---  |   ----   |   -----   |
-|  1   | [Reverse a String](https://leetcode.com/problems/reverse-string/)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/String/01.%20Reverse%20String.cpp)         |          |
-|  2   | [Check whether a String is Palindrome or not](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)                 |         |          |          |
-|  3   | [Find Duplicate characters in a string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)                 |         |          |          |
+|  1   | [Reverse a String](https://leetcode.com/problems/reverse-string/)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/String/01.%20Reverse%20String.cpp)         |   O(n)     |   O(1)  |
+|  2   | [Check whether a String is Palindrome or not](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)                 | [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/String/02.%20Palindrome%20String.cpp)        |   O(n)    |   O(1)     |
+|  3   | [Find Duplicate characters in a string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)                 | [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/String/03.%20Duplicates%20in%20string.cpp)        |   O9n     |    O(k)    |
 |  4   | [Why strings are immutable in Java?]()                 |         |          |         |
-|  5   | [Check whether one string is a rotation of another](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/)                 |         |          |        |
+|  5   | [Check whether one string is a rotation of another](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/)                 | [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/String/05.%20Rotation%20or%20not.cpp)        |  O(n1+n2)     |   O(1)    |
 |  6   | [Check whether a string is a valid shuffle of two strings or not](https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings)                 |         |          |         |
 |  7   | [Count and Say problem](https://leetcode.com/problems/count-and-say/)                 |         |   |          |
 |  8   | [Find the longest Palindrome in a string[Longest palindromic Substring]](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1)                 |         |          |        |
@@ -110,10 +110,18 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 <br/>
 
 ## Linked-List
-|  #  |  Problem                                                                                                                            |   Time   |   Space   |
+|  #  |  Problem                                                                                                                            |  Solution  |  Time   |   Space   |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------  |   ----   |   -----   |
-|  1   | [Reverse the Linked List (Both iterative and recursive)](https://www.geeksforgeeks.org/reverse-a-linked-list/)                 |         |          |
-|  2   | [Reverse a Linked List in group of given Size. [Very Imp]](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)                 |         |          |
+|  1   | [Reverse the Linked List (Both iterative and recursive)](https://www.geeksforgeeks.org/reverse-a-linked-list/)                 | [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Linked%20List/01.%20Reverse%20linked%20list.cpp)        |   O(n)    |  O(1)    |
+|  2   | [Reverse a Linked List in group of given Size. [Very Imp]](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)                 |         |          |         |
+|  3   | [Detect loop in linked list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)                 |         |          |         |
+|  4   | [Delete loop in linked list](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)                 |         |          |         |
+|  5   | [Find starting point of the loop](https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/)                 |         |          |         |
+|  6   | [Remove duplicates in sorted linked list](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1)                 |         |          |         |
+|  7   | [Remove duplicates in unsorted linked list](https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1)                 |         |          |         |
+|  8   | [Move last element to front in linked list](https://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/)                 |         |          |         |
+|  9   |[Add 1 to a number represented as linked list](https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1)                  |         |          |         |
+|  10   | [Add two numbers represented by linked list](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)                 |         |          |         |
 
 <br/>
 <div align="right">
