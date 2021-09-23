@@ -17,15 +17,15 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 
 |  #  | Problem                                                                                                                            |  Solution  |   Time   |   Space   |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------  |   ----   |   -----   |   ---  |
-|  1  | [Reverse an Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/01.%20Reverse%20an%20array.cpp)     |   O(n)   |   O(1)    |
-|  2  | [Find the maximum and minimum element in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/02.%20Min%20and%20Max%20in%20array.cpp)     |    O(n)    |    O(1)   |
-|  3  | [Find the "Kth" max and min element of an array](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/03.%20Kth%20smallest%20element.cpp)      |   O(nlogk)   |   O(k)   |
-|  4  | [Sort an array which consists of only 0, 1 and 2 without using any sorting algo](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)                 |    [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/04.%20Sort%20array%20of%200s%2C1s%2C2s.cpp)     |   O(n)    |   O(1)    |
-|  5  | [Move all the negative elements to one side of the array ](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space//)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/05.%20Move%20all%20negative%20numbers%20to%20beginning.cpp)     |    O(n)  |    O(1)   |
-|  6  | [Find the Union and Intersection of the two sorted arrays.](https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/06.%20Union%20%26%20Intersection%20of%20sorted%20arrays.cpp)      |   O(m+n)    |    O(m+n)     |
-|  7  | [Write a program to cyclically rotate an array by one.](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/07.%20Rotate%20array.cpp)      |  O(n)   |   O(d)     |
-|  8  | [Find Largest sum contiguous Subarray V. IMP](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/08.%20Largest%20Sum%20Contiguous%20Subarray.cpp)     |  O(n)   |   O(1)   |
-|  9  | [Minimise the maximum difference between heights V.IMP](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/09.%20Minimize%20the%20heights.cpp)      |   O(nlogn)    |   O(1)     |
+|  1  | [Reverse an Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/01.%20Reverse%20an%20array.cpp)     |   _O(n)_   |   _O(1)_    |
+|  2  | [Find the maximum and minimum element in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/02.%20Min%20and%20Max%20in%20array.cpp)     |    _O(n)_    |    _O(1)_   |
+|  3  | [Find the "Kth" max and min element of an array](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/03.%20Kth%20smallest%20element.cpp)      |   _O(n\*logk)_   |   _O(k)_   |
+|  4  | [Sort an array which consists of only 0, 1 and 2 without using any sorting algo](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)                 |    [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/04.%20Sort%20array%20of%200s%2C1s%2C2s.cpp)     |   _O(n)_    |   _O(1)_    |
+|  5  | [Move all the negative elements to one side of the array ](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space//)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/05.%20Move%20all%20negative%20numbers%20to%20beginning.cpp)     |    _O(n)_  |    _O(1)_   |
+|  6  | [Find the Union and Intersection of the two sorted arrays.](https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/06.%20Union%20%26%20Intersection%20of%20sorted%20arrays.cpp)      |   _O(m+n)_    |    _O(m+n)_     |
+|  7  | [Write a program to cyclically rotate an array by one.](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/07.%20Rotate%20array.cpp)      |  _O(n)_   |   _O(d)_     |
+|  8  | [Find Largest sum contiguous Subarray V. IMP](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/08.%20Largest%20Sum%20Contiguous%20Subarray.cpp)     |  _O(n)_   |   _O(1)_   |
+|  9  | [Minimise the maximum difference between heights V.IMP](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/09.%20Minimize%20the%20heights.cpp)      |   _O(n\*logn)_    |   _O(1)_     |
 |  10  | [Minimum no. of Jumps to reach end of an array](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0)                 |        |    -    |     -     |
 |  11  | [Find duplicate in an array of N+1 Integers](https://leetcode.com/problems/find-the-duplicate-number/)                 |         |     -    |     -     |
 |  12  | [Merge 2 sorted arrays without using Extra space.](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)                 |        |    -    |     -     |
@@ -64,9 +64,9 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 
 |  #  |  Problem                                                                                                                            |  Solution  |   Time   |   Space   |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------  |  ---  |   ----   |   -----   |
-|  1   | [Spiral traversal on a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/01.%20Spiral%20Traversal.cpp)  |    O(rxc)    |   O(rxc)      |
-|  2   | [Search an element in a matriix](https://leetcode.com/problems/search-a-2d-matrix/)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/02.%20Search%20in%20matrix.cpp)      |   O(logmn)      |  O(1)   |
-|  3   | [Find median in a row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/03.%20Median%20in%20row-wise%20sorted%20matrix.cpp)     |   O(32xrxlogc)    | O(1)   |
+|  1   | [Spiral traversal on a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/01.%20Spiral%20Traversal.cpp)  |    _O(r\*c)_    |   _O(r\*c)_      |
+|  2   | [Search an element in a matriix](https://leetcode.com/problems/search-a-2d-matrix/)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/02.%20Search%20in%20matrix.cpp)      |   _O(logmn)_      |  _O(1)_   |
+|  3   | [Find median in a row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/03.%20Median%20in%20row-wise%20sorted%20matrix.cpp)     |   _O(32\*r\*logc)_    | _O(1)_   |
 |  4   | [Find row with maximum no. of 1's](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)                 |     -    |     -     |    |
 |  5   | [Print elements in sorted order using row-column wise sorted matrix](https://practice.geeksforgeeks.org/problems/sorted-matrix2333/1)                 |     -    |     -     |    |
 |  6   | [Maximum size rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)                 |     -    |     -     |    |
@@ -85,11 +85,11 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 
 |  #  |  Problem                                                                                                                            |  Solution  |   Time   |   Space   |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------  |  ---  |   ----   |   -----   |
-|  1   | [Reverse a String](https://leetcode.com/problems/reverse-string/)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/String/01.%20Reverse%20String.cpp)         |   O(n)     |   O(1)  |
-|  2   | [Check whether a String is Palindrome or not](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)                 | [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/String/02.%20Palindrome%20String.cpp)        |   O(n)    |   O(1)     |
-|  3   | [Find Duplicate characters in a string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)                 | [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/String/03.%20Duplicates%20in%20string.cpp)        |   O(n)    |    O(k)    |
+|  1   | [Reverse a String](https://leetcode.com/problems/reverse-string/)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/String/01.%20Reverse%20String.cpp)         |   _O(n)_     |   _O(1)_  |
+|  2   | [Check whether a String is Palindrome or not](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)                 | [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/String/02.%20Palindrome%20String.cpp)        |   _O(n)_    |   _O(1)_     |
+|  3   | [Find Duplicate characters in a string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)                 | [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/String/03.%20Duplicates%20in%20string.cpp)        |   _O(n)_    |    _O(k)_    |
 |  4   | [Why strings are immutable in Java?]()                 |         |          |         |
-|  5   | [Check whether one string is a rotation of another](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/)                 | [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/String/05.%20Rotation%20or%20not.cpp)        |  O(n1+n2)     |   O(1)    |
+|  5   | [Check whether one string is a rotation of another](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/)                 | [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/String/05.%20Rotation%20or%20not.cpp)        |  _O(n1+n2)_     |   _O(1)_    |
 |  6   | [Check whether a string is a valid shuffle of two strings or not](https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings)                 |         |          |         |
 |  7   | [Count and Say problem](https://leetcode.com/problems/count-and-say/)                 |         |   |          |
 |  8   | [Find the longest Palindrome in a string[Longest palindromic Substring]](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1)                 |         |          |        |
@@ -115,7 +115,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 ## Linked List
 |  #  |  Problem                                                                                                                            |  Solution  |  Time   |   Space   |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------  |   ----   |   -----   |  ----  |
-|  1   | [Reverse the Linked List (Both iterative and recursive)](https://www.geeksforgeeks.org/reverse-a-linked-list/)                 | [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Linked%20List/01.%20Reverse%20linked%20list.cpp)        |   O(n)    |  O(1)    |
+|  1   | [Reverse the Linked List (Both iterative and recursive)](https://www.geeksforgeeks.org/reverse-a-linked-list/)                 | [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Linked%20List/01.%20Reverse%20linked%20list.cpp)        |   _O(n)_    |  _O(1)_    |
 |  2   | [Reverse a Linked List in group of given Size. [Very Imp]](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)                 |         |          |         |
 |  3   | [Detect loop in linked list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)                 |         |          |         |
 |  4   | [Delete loop in linked list](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)                 |         |          |         |
@@ -136,7 +136,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 
 |  #  | Problem                                                                                                                            |  Solution  |   Time   |   Space   |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------  |   ----   |   -----   |   ---  |
-|  1  | [Find first and last positions of x in sorted array](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1#)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Serach%20%26%20Sort/01.%20First%20%26%20Last%20Occurence%20of%20x.cpp)     |   O(logn)   |   O(1)    |
+|  1  | [Find first and last positions of x in sorted array](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1#)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Serach%20%26%20Sort/01.%20First%20%26%20Last%20Occurence%20of%20x.cpp)     |   _O(logn)_   |   _O(1)_    |
 
 <br/>
 <div align="right">
@@ -148,7 +148,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 
 |  #  | Problem                                                                                                                            |  Solution  |   Time   |   Space   |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------  |   ----   |   -----   |   ---  |
-|  1  | [Level Order Traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/01.%20Level%20Order%20Traversal.cpp)     |   O(n)   |   O(1)    |
+|  1  | [Level Order Traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/01.%20Level%20Order%20Traversal.cpp)     |   _O(n)_   |   _O(1)_    |
 
 <br/>
 <div align="right">
