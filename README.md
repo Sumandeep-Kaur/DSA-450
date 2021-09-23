@@ -8,8 +8,10 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 - [Array](#array)
 - [Matrix](#matrix)
 - [String](#string)
-- [Searching & Sorting](#search&sort)
 - [Linked List](#linked-list)
+- [Searching & Sorting](#search-&-sort)
+- [Binary Tree](#binary-tree)
+
 
 ## Array
 
@@ -110,7 +112,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 </div>
 <br/>
 
-## Linked-List
+## Linked List
 |  #  |  Problem                                                                                                                            |  Solution  |  Time   |   Space   |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------  |   ----   |   -----   |  ----  |
 |  1   | [Reverse the Linked List (Both iterative and recursive)](https://www.geeksforgeeks.org/reverse-a-linked-list/)                 | [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Linked%20List/01.%20Reverse%20linked%20list.cpp)        |   O(n)    |  O(1)    |
@@ -135,6 +137,18 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  #  | Problem                                                                                                                            |  Solution  |   Time   |   Space   |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------  |   ----   |   -----   |   ---  |
 |  1  | [Find first and last positions of x in sorted array](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1#)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Serach%20%26%20Sort/01.%20First%20%26%20Last%20Occurence%20of%20x.cpp)     |   O(logn)   |   O(1)    |
+
+<br/>
+<div align="right">
+    <b><a href="#topics">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Binary Tree
+
+|  #  | Problem                                                                                                                            |  Solution  |   Time   |   Space   |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------  |   ----   |   -----   |   ---  |
+|  1  | [Level Order Traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/tree/master/Binary%20Tree)     |   O(n)   |   O(1)    |
 
 <br/>
 <div align="right">
