@@ -64,9 +64,9 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 
 |  #  |  Problem                                                                                                                            |  Solution  |   Time   |   Space   |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------  |  ---  |   ----   |   -----   |
-|  1   | [Spiral traversal on a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/01.%20Spiral%20Traversal.cpp)  |     -    |     -     |
-|  2   | [Search an element in a matriix](https://leetcode.com/problems/search-a-2d-matrix/)                 |     -    |     -     |     |
-|  3   | [Find median in a row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)                 |     -    |     -     |    |
+|  1   | [Spiral traversal on a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/01.%20Spiral%20Traversal.cpp)  |    O(rxc)    |   O(rxc)      |
+|  2   | [Search an element in a matriix](https://leetcode.com/problems/search-a-2d-matrix/)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/02.%20Search%20in%20matrix.cpp)      |   O(logmn)      |  O(1)   |
+|  3   | [Find median in a row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/03.%20Median%20in%20row-wise%20sorted%20matrix.cpp)     |   O(32xrxlogc)    | O(1)   |
 |  4   | [Find row with maximum no. of 1's](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)                 |     -    |     -     |    |
 |  5   | [Print elements in sorted order using row-column wise sorted matrix](https://practice.geeksforgeeks.org/problems/sorted-matrix2333/1)                 |     -    |     -     |    |
 |  6   | [Maximum size rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)                 |     -    |     -     |    |
@@ -148,7 +148,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 
 |  #  | Problem                                                                                                                            |  Solution  |   Time   |   Space   |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------  |   ----   |   -----   |   ---  |
-|  1  | [Level Order Traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/tree/master/Binary%20Tree)     |   O(n)   |   O(1)    |
+|  1  | [Level Order Traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/01.%20Level%20Order%20Traversal.cpp)     |   O(n)   |   O(1)    |
 
 <br/>
 <div align="right">
