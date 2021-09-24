@@ -137,6 +137,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  #  | Problem                                                                                                                            |  Solution  |   Time   |   Space   |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------  |   ----   |   -----   |   ---  |
 |  1  | [Find first and last positions of x in sorted array](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1#)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Serach%20%26%20Sort/01.%20First%20%26%20Last%20Occurence%20of%20x.cpp)     |   _O(logn)_   |   _O(1)_    |
+|  1  | [Find element equal to its index value](https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1#)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Search%20%26%20Sort/02.%20Value%20equal%20to%20index%20value.cpp)     |   _O(n)_   |   _O(1)_    |
 
 <br/>
 <div align="right">
@@ -148,7 +149,8 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 
 |  #  | Problem                                                                                                                            |  Solution  |   Time   |   Space   |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------  |   ----   |   -----   |   ---  |
-|  1  | [Level Order Traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/01.%20Level%20Order%20Traversal.cpp)     |   _O(n)_   |   _O(1)_    |
+|  1  | [Level Order Traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/01.%20Level%20Order%20Traversal.cpp)     |   _O(n)_   |   _O(n)_    |
+|  2  | [Reverse Level Order Traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/02.%20Reverse%20Level%20Order%20Traversal.cpp)     |   _O(n)_   |   _O(n)_    |
 
 <br/>
 <div align="right">
