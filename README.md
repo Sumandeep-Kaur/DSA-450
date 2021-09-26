@@ -27,7 +27,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  8  | [Find Largest sum contiguous Subarray V. IMP](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/08.%20Largest%20Sum%20Contiguous%20Subarray.cpp)     |  _O(n)_   |   _O(1)_   |
 |  9  | [Minimise the maximum difference between heights V.IMP](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/09.%20Minimize%20the%20heights.cpp)      |   _O(n\*logn)_    |   _O(1)_     |
 |  10  | [Minimum no. of Jumps to reach end of an array](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0)                 |        |    -    |     -     |
-|  11  | [Find duplicate in an array of N+1 Integers](https://leetcode.com/problems/find-the-duplicate-number/)                 |         |     -    |     -     |
+|  11  | [Find duplicate in an array of N+1 Integers](https://leetcode.com/problems/find-the-duplicate-number/)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/11.%20Find%20duplicate%20number.cpp)      |    _O(n)_    |   _O(1)_     |
 |  12  | [Merge 2 sorted arrays without using Extra space.](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)                 |        |    -    |     -     |
 |  13  | [Kadane's Algo [V.V. IMP]](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)                 |         |   -    |     -     |
 |  14  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                 |       |     -    |     -     |
@@ -139,6 +139,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  1  | [Find first and last positions of x in sorted array](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1#)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Serach%20%26%20Sort/01.%20First%20%26%20Last%20Occurence%20of%20x.cpp)     |   _O(logn)_   |   _O(1)_    |
 |  2  | [Find element equal to its index value](https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1#)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Search%20%26%20Sort/02.%20Value%20equal%20to%20index%20value.cpp)     |   _O(n)_   |   _O(1)_    |
 |  3  | [Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Search%20%26%20Sort/03.%20Search%20in%20rotated%20sorted%20array.cpp)     |   _O(logn)_   |   _O(1)_    |
+|  4  | [Count perfect squares less than n](https://practice.geeksforgeeks.org/problems/count-squares3649/1#)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Search%20%26%20Sort/04.%20Count%20Squares.cpp)     |   _O(sqrt(n))_   |   _O(1)_    |
 
 <br/>
 <div align="right">
