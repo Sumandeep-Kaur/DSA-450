@@ -67,7 +67,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  1   | [Spiral traversal on a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/01.%20Spiral%20Traversal.cpp)  |    _O(r\*c)_    |   _O(r\*c)_      |
 |  2   | [Search an element in a matriix](https://leetcode.com/problems/search-a-2d-matrix/)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/02.%20Search%20in%20matrix.cpp)      |   _O(logmn)_      |  _O(1)_   |
 |  3   | [Find median in a row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/03.%20Median%20in%20row-wise%20sorted%20matrix.cpp)     |   _O(32\*r\*logc)_    | _O(1)_   |
-|  4   | [Find row with maximum no. of 1's](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)                 |     -    |     -     |    |
+|  4   | [Find row with maximum no. of 1's](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)                 |     -    |   _O(n+m)_     |  _O(1)_   |
 |  5   | [Print elements in sorted order using row-column wise sorted matrix](https://practice.geeksforgeeks.org/problems/sorted-matrix2333/1)                 |     -    |     -     |    |
 |  6   | [Maximum size rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)                 |     -    |     -     |    |
 |  7   | [Find a specific pair in matrix](https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/)                 |     -    |     -     |    |
@@ -90,8 +90,8 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  3   | [Find Duplicate characters in a string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)                 | [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/String/03.%20Duplicates%20in%20string.cpp)        |   _O(n)_    |    _O(k)_    |
 |  4   | [Why strings are immutable in Java?]()                 |         |          |         |
 |  5   | [Check whether one string is a rotation of another](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/)                 | [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/String/05.%20Rotation%20or%20not.cpp)        |  _O(n1+n2)_     |   _O(1)_    |
-|  6   | [Check whether a string is a valid shuffle of two strings or not](https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings)                 |         |          |         |
-|  7   | [Count and Say problem](https://leetcode.com/problems/count-and-say/)                 |         |   |          |
+|  6   | [Check whether a string is a valid shuffle of two strings or not](https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/String/06.%20Valid%20shuffle%20or%20not.cpp)      |  _O(n)_     |   _O(1)_      |
+|  7   | [Count and Say problem](https://leetcode.com/problems/count-and-say/)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/String/07.%20Count%20and%20Say.cpp)       |   _O(n*m)_ |   _O(1)_     |
 |  8   | [Find the longest Palindrome in a string[Longest palindromic Substring]](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1)                 |         |          |        |
 |  9   | [Find Longest Recurring Subsequence in String](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1)                 |         |          |         |
 |  10   | [Print all Subsequences of a string.](https://www.geeksforgeeks.org/print-subsequences-string/)                 |         |          |        |
