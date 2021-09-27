@@ -1,7 +1,7 @@
 /*
     Find height of binary tree i.e, number of levels.
     Example:    Input: 1, 2, 3, -1, 5, 4, 6, 5, -1, -1, -1, -1, -1, 7            // -1 means no node
-                Output: 4                                                1
+                Output: 4                                                             1
                                                                                    /     \
                 Time Complexity: O(n)                                             2       3
                 Space Complexity: O(n)                                             \     / \
@@ -54,7 +54,7 @@ Node *buildTree(vector<int> &arr)
     }
     return root;
 }
-
+//Iterative
 int height(Node *root)
 {
     if (!root)
@@ -76,6 +76,15 @@ int height(Node *root)
         height++;
     }
     return height;
+}
+//Recursive
+int height(Node* root)
+{
+    if(!root)
+        return 0;
+    int left = height(root->left);
+    int right = height(root->right);
+    return max(left, right) + 1;
 }
 
 int main()
