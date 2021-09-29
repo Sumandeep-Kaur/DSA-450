@@ -33,7 +33,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  14  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                 |       |     -    |     -     |
 |  15  | [Next Permutation ](https://leetcode.com/problems/next-permutation/)                 |     |     -    |     -     |
 |  16  | [Count Inversion](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)                 |      |     -    |     -     |
-|  17  | [Best time to buy and Sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                 |       |    -    |     -     |
+|  17  | [Best time to buy and Sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/17.%20Best%20time%20to%20buy%20%26%20sell%20stock.cpp)     |   _O(n)_    |   _O(1)_    |
 |  18  | [Find all pairs on integer array whose sum is equal to given number](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1)                 |       |    -    |     -     |
 |  19  | [Find common elements In 3 sorted arrays](https://practice.geeksforgeeks.org/problems/common-elements1132/1)                 |        |    -    |     -     |
 |  20  | [Rearrange the array in alternating positive and negative items with O(1) extra space](https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/)                 |        |     -    |     -     |
@@ -67,11 +67,11 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  1   | [Spiral traversal on a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/01.%20Spiral%20Traversal.cpp)  |    _O(r\*c)_    |   _O(r\*c)_      |
 |  2   | [Search an element in a matriix](https://leetcode.com/problems/search-a-2d-matrix/)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/02.%20Search%20in%20matrix.cpp)      |   _O(logmn)_      |  _O(1)_   |
 |  3   | [Find median in a row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/03.%20Median%20in%20row-wise%20sorted%20matrix.cpp)     |   _O(32\*r\*logc)_    | _O(1)_   |
-|  4   | [Find row with maximum no. of 1's](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)                 |     -    |   _O(n+m)_     |  _O(1)_   |
+|  4   | [Find row with maximum no. of 1's](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/04.%20Row%20with%20max%201s.cpp)    |   _O(n+m)_     |  _O(1)_   |
 |  5   | [Print elements in sorted order using row-column wise sorted matrix](https://practice.geeksforgeeks.org/problems/sorted-matrix2333/1)                 |     -    |     -     |    |
 |  6   | [Maximum size rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)                 |     -    |     -     |    |
 |  7   | [Find a specific pair in matrix](https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/)                 |     -    |     -     |    |
-|  8   | [Rotate matrix by 90 degrees](https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/)                 |     -    |     -     |    |
+|  8   | [Rotate matrix by 90 degrees](https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/08.%20Rotate%20matrix%20by%2090%20degrees.cpp)    |   _O(n*n)_      |  _O(1)_   |
 |  9   | [Kth smallest element in a row-column wise sorted matrix](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1)                 |     -    |     -     |    |
 |  10   | [Common elements in all rows of a given matrix](https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/)                 |     -    |     -     |    |
 
@@ -140,6 +140,21 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  2  | [Find element equal to its index value](https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1#)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Search%20%26%20Sort/02.%20Value%20equal%20to%20index%20value.cpp)     |   _O(n)_   |   _O(1)_    |
 |  3  | [Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Search%20%26%20Sort/03.%20Search%20in%20rotated%20sorted%20array.cpp)     |   _O(logn)_   |   _O(1)_    |
 |  4  | [Count perfect squares less than n](https://practice.geeksforgeeks.org/problems/count-squares3649/1#)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Search%20%26%20Sort/04.%20Count%20Squares.cpp)     |   _O(sqrt(n))_   |   _O(1)_    |
+|  5  | [Find middle of three numbers](https://practice.geeksforgeeks.org/problems/middle-of-three2926/1#)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Search%20%26%20Sort/05.%20Middle%20of%20three%20.cpp)     |   _O(1)_   |   _O(1)_    |
+
+
+<br/>
+<div align="right">
+    <b><a href="#topics">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Stack & Queue
+
+|  #  | Problem                                                                                                                            |  Solution  |   Time   |   Space   |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------  |   ----   |   -----   |   ---  |
+|  1  | [Implement Stack](https://www.geeksforgeeks.org/stack-data-structure-introduction-program/)                                   |  [Sol]()     |      |       |
+|  2  | [Implement Queue](https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/)                                   |  [Sol]()     |      |       |
 
 <br/>
 <div align="right">
@@ -154,6 +169,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  1  | [Level Order Traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/01.%20Level%20Order%20Traversal.cpp)     |   _O(n)_   |   _O(n)_    |
 |  2  | [Reverse Level Order Traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/02.%20Reverse%20Level%20Order%20Traversal.cpp)     |   _O(n)_   |   _O(n)_    |
 |  3  | [Height of binary tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/03.%20Height%20of%20binary%20tree.cpp)     |   _O(n)_   |   _O(n)_    |
+|  4  | [Diameter of binary tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/04.%20Diameter%20of%20binary%20tree.cpp)     |   _O(n)_   |   _O(h)_    |
 
 <br/>
 <div align="right">
