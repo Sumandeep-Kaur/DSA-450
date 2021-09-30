@@ -31,7 +31,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  12  | [Merge 2 sorted arrays without using Extra space.](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)                 |        |    -    |     -     |
 |  13  | [Kadane's Algo [V.V. IMP]](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)                 |         |   -    |     -     |
 |  14  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                 |       |     -    |     -     |
-|  15  | [Next Permutation ](https://leetcode.com/problems/next-permutation/)                 |     |     -    |     -     |
+|  15  | [Next Permutation ](https://leetcode.com/problems/next-permutation/)                 | [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/15.%20Next%20permutation.cpp)    |    _O(n)_    |    _O(1)_     |
 |  16  | [Count Inversion](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)                 |      |     -    |     -     |
 |  17  | [Best time to buy and Sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/17.%20Best%20time%20to%20buy%20%26%20sell%20stock.cpp)     |   _O(n)_    |   _O(1)_    |
 |  18  | [Find all pairs on integer array whose sum is equal to given number](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1)                 |       |    -    |     -     |
@@ -153,8 +153,8 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 
 |  #  | Problem                                                                                                                            |  Solution  |   Time   |   Space   |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------  |   ----   |   -----   |   ---  |
-|  1  | [Implement Stack](https://www.geeksforgeeks.org/stack-data-structure-introduction-program/)                                   |  [Sol]()     |      |       |
-|  2  | [Implement Queue](https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/)                                   |  [Sol]()     |      |       |
+|  1  | [Implement Stack](https://www.geeksforgeeks.org/stack-data-structure-introduction-program/)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Stack%20%26%20Queue/01.%20Implement%20stack.cpp)     |      |       |
+|  2  | [Implement Queue](https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/)                                   |       |      |       |
 
 <br/>
 <div align="right">
