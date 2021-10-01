@@ -64,11 +64,11 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 
 |  #  |  Problem                                                                                                                            |  Solution  |   Time   |   Space   |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------  |  ---  |   ----   |   -----   |
-|  1   | [Spiral traversal on a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/01.%20Spiral%20Traversal.cpp)  |    _O(r*c)_    |   _O(r*c)_      |
+|  1   | [Spiral traversal on a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/01.%20Spiral%20Traversal.cpp)  |    _O(r\*c)_    |   _O(r\*c)_      |
 |  2   | [Search an element in a matriix](https://leetcode.com/problems/search-a-2d-matrix/)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/02.%20Search%20in%20matrix.cpp)      |   _O(logmn)_      |  _O(1)_   |
-|  3   | [Find median in a row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/03.%20Median%20in%20row-wise%20sorted%20matrix.cpp)     |   _O(32*r*logc)_    | _O(1)_   |
+|  3   | [Find median in a row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/03.%20Median%20in%20row-wise%20sorted%20matrix.cpp)     |   _O(32\*r\*logc)_    | _O(1)_   |
 |  4   | [Find row with maximum no. of 1's](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/04.%20Row%20with%20max%201s.cpp)    |   _O(n+m)_     |  _O(1)_   |
-|  5   | [Print elements in sorted order using row-column wise sorted matrix](https://practice.geeksforgeeks.org/problems/sorted-matrix2333/1)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/05.%20Sort%20matrix.cpp)     |    _O(n*n*logn)_    |  _O(n*n)_  |
+|  5   | [Print elements in sorted order using row-column wise sorted matrix](https://practice.geeksforgeeks.org/problems/sorted-matrix2333/1)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/05.%20Sort%20matrix.cpp)     |    _O(n\*n\*logn)_    |  _O(n\*n)_  |
 |  6   | [Maximum size rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)                 |     -    |     -     |    |
 |  7   | [Find a specific pair in matrix](https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/)                 |     -    |     -     |    |
 |  8   | [Rotate matrix by 90 degrees](https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Matrix/08.%20Rotate%20matrix%20by%2090%20degrees.cpp)    |   _O(n*n)_      |  _O(1)_   |
@@ -155,6 +155,14 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 | --- | ---------------------------------------------------------------------------------------------------------------------------------  |   ----   |   -----   |   ---  |
 |  1  | [Implement Stack](https://www.geeksforgeeks.org/stack-data-structure-introduction-program/)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Stack%20%26%20Queue/01.%20Implement%20stack.cpp)     |      |       |
 |  2  | [Implement Queue](https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/)                                   |       |      |       |
+|  3  | [Implement 2 stacks in one array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1)                                   |       |      |       |
+|  4  | [Find middle element of stack](https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/)                                   |       |      |       |
+|  5  | [Implement n stacks in one array](https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/)                                   |       |      |       |
+|  6  | [Check valid parenthesis](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)                                   |       |      |       |
+|  7  | [Reverse string using stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1)                                   |       |      |       |
+|  8  | [Design a stack that supports getMin() in O(1) time and space](https://practice.geeksforgeeks.org/problems/special-stack/1)                                   |       |      |       |
+|  9  | [Find next greater element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)                                   |       |      |       |
+|  10  | [The celebrity problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1)                                   |       |      |       |
 
 <br/>
 <div align="right">
