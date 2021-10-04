@@ -145,7 +145,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  5  | [Find middle of three numbers](https://practice.geeksforgeeks.org/problems/middle-of-three2926/1#)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Search%20%26%20Sort/05.%20Middle%20of%20three%20.cpp)     |   _O(1)_   |   _O(1)_    |
 |  6  | [Optimum location of point to minimize total distance](https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/)                                   |       |     |       |
 |  7  | [Find missing and repeating elements](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Search%20%26%20Sort/07.%20Find%20repeating%20%26%20missing.cpp)     |   _O(n)_   |   _O(1)_    |
-|  8  | [Find majority element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1)                                   |       |     |      |
+|  8  | [Find majority element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1)                                   | [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Search%20%26%20Sort/08.%20Find%20majority%20element.cpp)      |  _O(n)_   |  _O(1)_    |
 |  9  | [Search in array where adjacent differ by atmost k](https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/)                                   |       |      |       |
 |  10  | [Find a pair with given difference](https://practice.geeksforgeeks.org/problems/find-pair-given-difference1559/1)                                   |       |      |       |
 
