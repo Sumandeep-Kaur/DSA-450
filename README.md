@@ -146,8 +146,8 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  6  | [Optimum location of point to minimize total distance](https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/)                                   |       |     |       |
 |  7  | [Find missing and repeating elements](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Search%20%26%20Sort/07.%20Find%20repeating%20%26%20missing.cpp)     |   _O(n)_   |   _O(1)_    |
 |  8  | [Find majority element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1)                                   | [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Search%20%26%20Sort/08.%20Find%20majority%20element.cpp)      |  _O(n)_   |  _O(1)_    |
-|  9  | [Search in array where adjacent differ by atmost k](https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/)                                   |       |      |       |
-|  10  | [Find a pair with given difference](https://practice.geeksforgeeks.org/problems/find-pair-given-difference1559/1)                                   |       |      |       |
+|  9  | [Search in array where adjacent differ by atmost k](https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/)                                   | [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Search%20%26%20Sort/09.%20Search%20in%20array%20where%20adjacent%20differ%20by%20atmost%20k.cpp)      |   _O(n)_   |  _O(1)_     |
+|  10  | [Find a pair with given difference](https://practice.geeksforgeeks.org/problems/find-pair-given-difference1559/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Search%20%26%20Sort/10.%20Find%20pair%20with%20given%20diff.cpp)     |  _O(n*logn)_    |  _O(1)_   |
 
 
 <br/>
