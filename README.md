@@ -165,7 +165,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  3  | [Implement 2 stacks in one array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1)                                   |       |      |       |
 |  4  | [Find middle element of stack](https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/)                                   |       |      |       |
 |  5  | [Implement n stacks in one array](https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/)                                   |       |      |       |
-|  6  | [Check valid parenthesis](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)                                   |       |      |       |
+|  6  | [Check valid parenthesis](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Stack%20%26%20Queue/06.%20Valid%20Parentheses.cpp)     |  _O(n)_    |  _O(n)_     |
 |  7  | [Reverse string using stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1)                                   |       |      |       |
 |  8  | [Design a stack that supports getMin() in O(1) time and space](https://practice.geeksforgeeks.org/problems/special-stack/1)                                   |       |      |       |
 |  9  | [Find next greater element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)                                   |       |      |       |
