@@ -168,7 +168,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  6  | [Check valid parenthesis](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Stack%20%26%20Queue/06.%20Valid%20Parentheses.cpp)     |  _O(n)_    |  _O(n)_     |
 |  7  | [Reverse string using stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1)                                   |       |      |       |
 |  8  | [Design a stack that supports getMin() in O(1) time and space](https://practice.geeksforgeeks.org/problems/special-stack/1)                                   |       |      |       |
-|  9  | [Find next greater element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)                                   |       |      |       |
+|  9  | [Find next greater element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Stack%20%26%20Queue/09.%20Next%20greater%20element.cpp)     |  _O(n)_    |   _O(n)_    |
 |  10  | [The celebrity problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1)                                   |       |      |       |
 
 <br/>
@@ -185,6 +185,8 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  2  | [Reverse Level Order Traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/02.%20Reverse%20Level%20Order%20Traversal.cpp)     |   _O(n)_   |   _O(n)_    |
 |  3  | [Height of binary tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/03.%20Height%20of%20binary%20tree.cpp)     |   _O(n)_   |   _O(n)_    |
 |  4  | [Diameter of binary tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/04.%20Diameter%20of%20binary%20tree.cpp)     |   _O(n)_   |   _O(h)_    |
+|  4  | [Mirror of binary tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/04.%20Diameter%20of%20binary%20tree.cpp)     |      |      |
+|  4  | [Inorder traversal both iteratively & recursively](https://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/06.%20Inorder%20traversal.cpp)     |   _O(n)_   |   _O(h)_    |
 
 <br/>
 <div align="right">
