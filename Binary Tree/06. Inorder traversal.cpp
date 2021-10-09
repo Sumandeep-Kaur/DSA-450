@@ -1,13 +1,13 @@
 /*
-    Find diameter of binary tree i.e, number of nodes on the longest path between two end nodes in the tree.
+    Find inorder traversal of binary tree (left-root-right)
     Example:    Input: 1, 2, 3, 4, -1, 5, 6, -1, -1, 7, 8                 // -1 means no node
                 Output: 4,2,1,7,5,8,3,6                                             1
                                                                                  /     \
     Time Complexity: O(n)                                                       2       3
-    Space Complexity: O(height of tree)                                        /      /   \
-                                                                              4       5    6
-                                                                                    /   \
-                                                                                   7     8
+    Space Complexity: O(n)                                                     /      /   \
+                                                                              4      5     6
+                                                                                    /  \
+                                                                                   7    8
 */
 
 #include <bits/stdc++.h>
@@ -59,9 +59,9 @@ Node *buildTree(vector<int> &arr)
 void inorder(TreeNode* root)
 {
     if (root) {
-        inorder(root->left, v);
+        inorder(root->left);
         cout << root->val << " ";
-        inorder(root->right, v);
+        inorder(root->right);
     }
 }
 
