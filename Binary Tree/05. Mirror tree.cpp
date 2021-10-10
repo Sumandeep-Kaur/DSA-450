@@ -70,5 +70,6 @@ int main()
 {
     vector<int> arr = {1, 2, 3, -1, -1, 4, 6, -1, 5, -1, -1, 7, -1}; // -1 denotes NULL node
     Node *root = buildTree(arr);
+    Node* newRoot = mirrorTree(root);
     return 0;
 }
