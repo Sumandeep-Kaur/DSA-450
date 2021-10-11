@@ -97,7 +97,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  8   | [Find the longest Palindrome in a string[Longest palindromic Substring]](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1)                 |         |          |        |
 |  9   | [Find Longest Recurring Subsequence in String](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1)                 |         |          |         |
 |  10   | [Print all Subsequences of a string.](https://www.geeksforgeeks.org/print-subsequences-string/)                 |         |          |        |
-|  11   | [Print all the permutations of the given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)                 |         |          |         |
+|  11   | [Print all the permutations of the given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/String/11.%20Permutations.cpp)      |   _O(n*n!)_    |   _O(n)_    |
 |  12   | [Split the Binary string into two substring with equal 0’s and 1’s](https://www.geeksforgeeks.org/split-the-binary-string-into-substrings-with-equal-number-of-0s-and-1s/)                 |         |          |      |
 |  13   | [Word Wrap Problem [VERY IMP].](https://practice.geeksforgeeks.org/problems/word-wrap1646/1)                 |         |          |       |
 |  14   | [EDIT Distance [Very Imp]](https://practice.geeksforgeeks.org/problems/edit-distance3702/1)                 |         |          |         |
