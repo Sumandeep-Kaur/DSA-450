@@ -189,6 +189,8 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  6  | [Inorder traversal both iteratively & recursively](https://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/06.%20Inorder%20traversal.cpp)     |   _O(n)_   |   _O(n)_    |
 |  7  | [Preorder traversal both iteratively & recursively](https://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/07.%20Preorder%20traversal.cpp)     |   _O(n)_   |   _O(n)_    |
 |  8  | [Postorder traversal both iteratively & recursively](https://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/08.%20Postorder%20traversal.cpp)     |   _O(n)_   |   _O(n)_    |
+|  9  | [Left view of binary tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1#)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/09.%20Left%20view.cpp)     |   _O(n)_   |   _O(h)_    |
+|  10  | [Right view of binary tree](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1#)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/10.%20Right%20view.cpp)     |   _O(n)_   |   _O(h)_    |
 
 <br/>
 <div align="right">
