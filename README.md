@@ -36,7 +36,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  15  | [Next Permutation ](https://leetcode.com/problems/next-permutation/)                 | [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/15.%20Next%20permutation.cpp)    |    _O(n)_    |    _O(1)_     |
 |  16  | [Count Inversion](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)                 |      |     -    |     -     |
 |  17  | [Best time to buy and Sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/17.%20Best%20time%20to%20buy%20%26%20sell%20stock.cpp)     |   _O(n)_    |   _O(1)_    |
-|  18  | [Find all pairs on integer array whose sum is equal to given number](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1)                 |       |    -    |     -     |
+|  18  | [Find all pairs on integer array whose sum is equal to given number](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/18.%20Count%20pairs%20with%20given%20sum.cpp)     |    _O(n)_    |    _O(n)_     |
 |  19  | [Find common elements In 3 sorted arrays](https://practice.geeksforgeeks.org/problems/common-elements1132/1)                 |        |    -    |     -     |
 |  20  | [Rearrange the array in alternating positive and negative items with O(1) extra space](https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/)                 |        |     -    |     -     |
 |  21  | [Find if there is any subarray with sum equal to 0](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0)                 |        |     -    |     -     |
@@ -191,6 +191,10 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  8  | [Postorder traversal both iteratively & recursively](https://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/08.%20Postorder%20traversal.cpp)     |   _O(n)_   |   _O(n)_    |
 |  9  | [Left view of binary tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1#)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/09.%20Left%20view.cpp)     |   _O(n)_   |   _O(h)_    |
 |  10  | [Right view of binary tree](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1#)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/10.%20Right%20view.cpp)     |   _O(n)_   |   _O(h)_    |
+|  11  | [Top view of binary tree](#)                                   |       |      |      |
+|  12  | [Bottom view of binary tree](#)                                   |       |     |       |
+|  13  | [Zig-Zag level order traversal of binary tree](https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/13.%20Zig-Zag%20traversal.cpp)     |   _O(n)_   |  _O(n)_     |
+
 
 <br/>
 <div align="right">
