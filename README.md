@@ -10,8 +10,8 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 - [String](#string)
 - [Linked List](#linked-list)
 - [Searching & Sorting](#search-&-sort)
-- [Binary Tree](#binary-tree)
 - [Stack & Queue](#stack-&-queue)
+- [Binary Tree](#binary-tree)
 - [Bit Manipulation](#bit-manipulation)
 
 
@@ -102,7 +102,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  13   | [Word Wrap Problem [VERY IMP].](https://practice.geeksforgeeks.org/problems/word-wrap1646/1)                 |         |          |       |
 |  14   | [EDIT Distance [Very Imp]](https://practice.geeksforgeeks.org/problems/edit-distance3702/1)                 |         |          |         |
 |  15   | [Find next greater number with same set of digits [V.V. IMP]](https://practice.geeksforgeeks.org/problems/next-permutation5226/1)                 |         |          |           |
-|  16   | [Balanced Parenthesis problem.[Imp]](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)                 |         |          |        |
+|  16   | [Balanced Parenthesis problem.[Imp]](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/String/16.%20Balanced%20parentheses.cpp)    |    _O(n)_      |   _O(n)_     |
 |  17   | [Word break Problem[ Very Imp]](https://practice.geeksforgeeks.org/problems/word-break1352/1)                 |         |          |         |
 |  18   | [Rabin Karp Algo](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)                 |         |          |          |
 |  19   | [KMP Algo](https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1)                 |         |          |            |
@@ -166,7 +166,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  4  | [Find middle element of stack](https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/)                                   |       |      |       |
 |  5  | [Implement n stacks in one array](https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/)                                   |       |      |       |
 |  6  | [Check valid parenthesis](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Stack%20%26%20Queue/06.%20Valid%20Parentheses.cpp)     |  _O(n)_    |  _O(n)_     |
-|  7  | [Reverse string using stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1)                                   |       |      |       |
+|  7  | [Reverse string using stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Stack%20%26%20Queue/07.%20Reverse%20string%20using%20stack.cpp)     |  _O(n)_    |   _O(n)_    |
 |  8  | [Design a stack that supports getMin() in O(1) time and space](https://practice.geeksforgeeks.org/problems/special-stack/1)                                   |       |      |       |
 |  9  | [Find next greater element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Stack%20%26%20Queue/09.%20Next%20greater%20element.cpp)     |  _O(n)_    |   _O(n)_    |
 |  10  | [The celebrity problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1)                                   |       |      |       |
@@ -194,6 +194,7 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  11  | [Top view of binary tree](#)                                   |       |      |      |
 |  12  | [Bottom view of binary tree](#)                                   |       |     |       |
 |  13  | [Zig-Zag level order traversal of binary tree](https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/13.%20Zig-Zag%20traversal.cpp)     |   _O(n)_   |  _O(n)_     |
+|  14  | [Check if given binary tree is balanced or not](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1#)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Binary%20Tree/14.%20Balanced%20binary%20tree.cpp)     |   _O(n)_   |  _O(n)_     |
 
 
 <br/>
