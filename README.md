@@ -207,7 +207,8 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 
 |  #  | Problem                                                                                                                            |  Solution  |   Time   |   Space   |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------  |   ----   |   -----   |   ---  |
-|  1  | [Count set bits in n](https://practice.geeksforgeeks.org/problems/set-bits0143/1#)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Bit%20Manipulation/01.%20Number%20of%20set%20bits.cpp)     |   _O(logn)_   |   _O(n)_    |
+|  1  | [Count set bits in n](https://practice.geeksforgeeks.org/problems/set-bits0143/1#)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Bit%20Manipulation/01.%20Number%20of%20set%20bits.cpp)     |   _O(logn)_   |   _O(1)_    |
+|  5  | [Check if n is power of two](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1#)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Bit%20Manipulation/05.%20Check%20power%20of%20two.cpp)     |   _O(logn)_   |   _O(1)_    |
 
 <br/>
 <div align="right">
