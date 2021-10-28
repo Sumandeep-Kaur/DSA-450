@@ -208,6 +208,9 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  #  | Problem                                                                                                                            |  Solution  |   Time   |   Space   |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------  |   ----   |   -----   |   ---  |
 |  1  | [Count set bits in n](https://practice.geeksforgeeks.org/problems/set-bits0143/1#)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Bit%20Manipulation/01.%20Number%20of%20set%20bits.cpp)     |   _O(logn)_   |   _O(1)_    |
+|  2  | [Find two non-repeating elements in an array of repeating elements](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Bit%20Manipulation/02.%20Non-repeating%20numbers.cpp)     |   _O(n)_   |   _O(1)_    |
+|  3  | [Count number of bits to be flipped to convert A to B](https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Bit%20Manipulation/03%20Count%20flips.cpp)     |   _O(logn)_   |   _O(1)_    |
+|  4  | [Count total number of set bits from 1 to n](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)                                   |       |     |      |
 |  5  | [Check if n is power of two](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1#)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Bit%20Manipulation/05.%20Check%20power%20of%20two.cpp)     |   _O(logn)_   |   _O(1)_    |
 
 <br/>
