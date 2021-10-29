@@ -212,6 +212,11 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  3  | [Count number of bits to be flipped to convert A to B](https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Bit%20Manipulation/03%20Count%20flips.cpp)     |   _O(logn)_   |   _O(1)_    |
 |  4  | [Count total number of set bits from 1 to n](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)                                   |       |     |      |
 |  5  | [Check if n is power of two](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1#)                                   |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Bit%20Manipulation/05.%20Check%20power%20of%20two.cpp)     |   _O(logn)_   |   _O(1)_    |
+|  6  | [Find position of only set sit](https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1)                                   |      |      |     |
+|  7  | [Copy set bits in a range](https://www.geeksforgeeks.org/copy-set-bits-in-a-range/)                                   |      |      |     |
+|  8  | [Divide two numbers without using *, / and % operator](https://www.geeksforgeeks.org/divide-two-integers-without-using-multiplication-division-mod-operator/)                                   |      |      |     |
+|  9  | [Calculate square of number without using *, / and pow()](https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/#:~:text=Given%20an%20integer%20n%2C%20calculate,*%2C%20%2F%20and%20pow().&text=A%20Simple%20Solution%20is%20to%20repeatedly%20add%20n%20to%20result.)                                   |      |      |     |
+|  10  | [Power set](https://practice.geeksforgeeks.org/problems/power-set4302/1)                                   |      |      |     |
 
 <br/>
 <div align="right">
