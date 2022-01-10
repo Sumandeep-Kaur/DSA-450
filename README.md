@@ -30,8 +30,8 @@ This repository contains solutions to the 450 Questions of the DSA Cracker Sheet
 |  9  | [Minimise the maximum difference between heights V.IMP](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)                 |  [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/09.%20Minimize%20the%20heights.cpp)      |   _O(n*logn)_    |   _O(1)_     |
 |  10  | [Minimum no. of Jumps to reach end of an array](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0)                 |        |    -    |     -     |
 |  11  | [Find duplicate in an array of N+1 Integers](https://leetcode.com/problems/find-the-duplicate-number/)                 |   [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/11.%20Find%20duplicate%20number.cpp)      |    _O(n)_    |   _O(1)_     |
-|  12  | [Merge 2 sorted arrays without using Extra space.](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)                 |        |    -    |     -     |
-|  13  | [Kadane's Algo [V.V. IMP]](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)                 |         |   -    |     -     |
+|  12  | [Merge 2 sorted arrays without using Extra space.](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)                 |        |    _O(logn)_    |     _O(1)_     |
+|  13  | [Kadane's Algo [V.V. IMP]](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)                 |         |   _O(n)_    |     _O(1)_     |
 |  14  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                 | [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/14.%20Merge%20intervals.cpp)      |    _O(n*logn)_    |    _O(logn)_     |
 |  15  | [Next Permutation ](https://leetcode.com/problems/next-permutation/)                 | [Sol](https://github.com/Sumandeep-Kaur/DSA-450/blob/master/Array/15.%20Next%20permutation.cpp)    |    _O(n)_    |    _O(1)_     |
 |  16  | [Count Inversion](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)                 |      |     -    |     -     |
